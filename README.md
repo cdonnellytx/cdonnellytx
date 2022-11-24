@@ -4,4 +4,7 @@
 - I'm on Twitter at https://twitter.com/cdonnellytx
 - I'm on Mastodon at <a rel="me" href="https://hachyderm.io/@cdonnellytx">https://hachyderm.io/@cdonnellytx</a>
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdonnellytx&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cdonnellytx&show_icons=true&theme=dark"/>
+  <img alt="Chris's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cdonnellytx&show_icons=true&theme=default"/>
+</picture>
